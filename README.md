@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritesh Sharma
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Front-End 
+- 🌱 I’m currently learning Front-End(HTML, CSS, Javascript, React) And Back-End(Nodejs, Expressjs, MongoDB)
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ritesh.1224@outlook.com
 
