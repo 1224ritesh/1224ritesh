@@ -9,10 +9,10 @@
 - **Backend:** Node.js, TypeScript, FastAPI (Python), Go  
 - **Frontend:** React, HTML, CSS  
 - **Databases:** PostgreSQL, MongoDB, Redis  
-- **ORM & Query Builders:** Prisma, Drizzle  
+- **ORM & Query Builders:** Prisma, Drizzle and kysely 
 
 **Other Skills**  
-- API Development (REST & GraphQL)  
+- API Development (REST, GraphQL, SSE)  
 - Performance Optimization  
 - Cloud & Deployment  
 - Caching & Data Modeling  
