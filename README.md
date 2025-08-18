@@ -6,7 +6,7 @@
 
 ## 🚀 Tech Stack  
 **Languages & Frameworks**  
-- **Backend:** Node.js, TypeScript, FastAPI (Python), Go  
+- **Backend:** Node.js, TypeScript, FastAPI (Python) 
 - **Frontend:** React, HTML, CSS  
 - **Databases:** PostgreSQL, MongoDB, Redis  
 - **ORM & Query Builders:** Prisma, Drizzle and kysely 
