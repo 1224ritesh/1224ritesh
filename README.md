@@ -1,13 +1,14 @@
 # 👋 Hey, I’m Ritesh Sharma  
 
 💻 **Backend-Focused Full-Stack Developer**  
-🚀 I design and build full-stack solutions that help businesses automate workflows, save time, and scale efficiently.
+🚀 I design and build full-stack solutions.
 
 ---
 
 ## 🚀 Tech Stack  
 
 ### ⚙️ Backend & Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)
@@ -69,7 +70,7 @@
 
 ## 🤝 Let’s Work Together  
 
-🚀 Available for freelance work  
+🚀 Available for work  
 
 ---
 
